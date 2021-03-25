@@ -40,3 +40,8 @@ npm run test
 ```
 npm run lint
 ```
+
+#### 开发
+##### 测试环境
+1. node v10.16.0
+2. npm 6.9.0
